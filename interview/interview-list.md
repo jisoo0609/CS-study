@@ -8,7 +8,7 @@
 
 # Computer Science
 
-[프로세스와 스레드의 차이를 설명해주세요.](https://www.notion.so/57c144a0944b4025b06c5aed41706782?pvs=21)
+[프로세스와 스레드의 차이를 설명해주세요.](computer-Science/process-thread.md)
 
 [멀티 프로세스와 멀티 쓰레드의 특징에 대해 설명해주세요.](https://www.notion.so/a57a2392c95742db917192543cd91caf?pvs=21)
 
@@ -29,9 +29,9 @@
 
 Ex) HTTP, cookie
 
-[CORS(Cross Origin Resource Sharing)에 대해 설명해주세요.](https://www.notion.so/CORS-Cross-Origin-Resource-Sharing-8bfc5a9fa1634e78b8352f14380dc05c?pvs=21)
+[CORS(Cross Origin Resource Sharing)에 대해 설명해주세요.](Web/CORS.md)
 
-[OAuth에 대해서 설명해주세요.](https://www.notion.so/OAuth-9b4e5cb8a714475a907221794e1400c6?pvs=21)
+[OAuth에 대해서 설명해주세요.](Web/OAuth.md)
 
 [HTTP와 HTTPS의 개념을 설명하고 차이점에 대해 설명해주세요.](https://www.notion.so/HTTP-HTTPS-e6ed6f800c16451584d34c08cc999b99?pvs=21)
 
@@ -77,7 +77,7 @@ Ex) NoSQL & RDBMS
 
 Ex) JDK
 
-[****GC 가비지 컬렉션에 대해 설명해주세요.****](https://www.notion.so/GC-cb140ed952084674b0cd7954cfb7010a?pvs=21)
+[****GC 가비지 컬렉션에 대해 설명해주세요.****](Framework&JAVA/GarbageCollection.md)
 
 [JVM의 역할에 대해 설명해주세요.](https://www.notion.so/JVM-10ca186dcd274cc49126a58ebf6f2596?pvs=21)
 
@@ -104,7 +104,7 @@ Ex) JDK
 ---
 # 자료구조 & 알고리즘
 
-[Stack, Queue, Tree, Heap에 대해 설명해주세요.](https://www.notion.so/Stack-Queue-Tree-Heap-9e3101bf9d904a6f83e8099718cb3df6?pvs=21)
+[Stack, Queue, Tree, Heap에 대해 설명해주세요.](Algorithm/Stack_Queue_Tree_Heap.md)
 
 [Array, LinkedList에 대해 설명해주시고 각각 어떻게 사용하는지 말씀해주세요.](https://www.notion.so/Array-LinkedList-62f4d4863eaa477b8383d6f2ff153de1?pvs=21)
 
